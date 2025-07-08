@@ -2,6 +2,15 @@
 
 This is a simple portfolio readme made with Markdown. It contains the reports and projects I have worked on, as well as some screenshots of the projects.
 
+## Master's Final Project - Hyperchaos in Videogames
+### Introduction 
+
+In this project a hyperchaotic system has been implemented and shown in a videogame. The game generates a hyperchaotic trajectory and uses it to generate a path for traps to follow and push the player off the platform. Other enemies spawn along the path and shoot projectiles at the player. The player must avoid the traps and enemies while trying to reach the end of the level. The project is implemented in C# using the Unity game engine. The hyperchaotic system is based on the Chen's system, which is a well-known chaotic system. The project is a demonstration of how chaos theory can be used in videogames to create interesting and unpredictable gameplay.
+
+![](./Images/HyperchaoticFunc.png)
+
+![](./Images/Gameplay.png)
+
 ## Textures
 ### Introduction
 
